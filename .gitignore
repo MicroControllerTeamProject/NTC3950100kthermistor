@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs
+/NTC3950100kthermistor/.vs/NTC3950100kthermistor
+/NTC3950100kthermistor/obj/ARM/Debug/board.buildinfo
+/NTC3950100kthermistor/obj/ARM/Debug
+/NTC3950100kthermistor/__vm
+*.filters
